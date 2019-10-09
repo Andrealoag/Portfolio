@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Jun 2019 21:56:52 at http://envato.musemaster.net/Elrumi-HTML/index-freelancer.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://envato.musemaster.net/Elrumi-HTML/index-freelancer.html -O1 "C:\Users\L - 127\Documents\port\Portafolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:58:19	Warning: 	Retry after error 500 (Internal Server Error) at link envato.musemaster.net/Elrumi-HTML/css/grabbing.png (from envato.musemaster.net/Elrumi-HTML/css/owl.carousel.css)
+21:58:19	Warning: 	Retry after error 500 (Internal Server Error) at link envato.musemaster.net/Elrumi-HTML/css/AjaxLoader.gif (from envato.musemaster.net/Elrumi-HTML/css/owl.theme.css)
+21:58:35	Warning: 	Retry after error 500 () at link envato.musemaster.net/Elrumi-HTML/css/grabbing.png (from envato.musemaster.net/Elrumi-HTML/css/owl.carousel.css)
+21:58:35	Warning: 	Retry after error 500 () at link envato.musemaster.net/Elrumi-HTML/css/AjaxLoader.gif (from envato.musemaster.net/Elrumi-HTML/css/owl.theme.css)
+21:58:37	Error: 	"" (500) after 2 retries at link envato.musemaster.net/Elrumi-HTML/css/grabbing.png (from envato.musemaster.net/Elrumi-HTML/css/owl.carousel.css)
+21:58:37	Error: 	"" (500) after 2 retries at link envato.musemaster.net/Elrumi-HTML/css/AjaxLoader.gif (from envato.musemaster.net/Elrumi-HTML/css/owl.theme.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 45 seconds : 67 links scanned, 60 files written (2747902 bytes overall) [2628155 bytes received at 25030 bytes/sec], 170276 bytes transferred using HTTP compression in 9 files, ratio 20%
+(2 errors, 4 warnings, 0 messages)
